@@ -38,8 +38,7 @@
   "dependencies": {
     "lodash.isequal": "^4.5.0",
     "react-native-experimental-navigation": "^0.28.0",
-    "react-native-tabs": "^1.0.9",
-    "react-static-container": "^1.0.1"
+    "react-native-tabs": "^1.0.9"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
